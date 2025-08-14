@@ -1,4 +1,4 @@
-# Rooko Launcher
+# Rooko
 
 Rooko is a lightweight and user-friendly chess launcher that tracks playtime, stats, and ELO graph. It’s designed to be simple to use and customizable.
 
