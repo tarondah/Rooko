@@ -77,6 +77,8 @@ git push origin feature/my-feature
 
 Please ensure your changes are tested and follow the existing code style. Every contribution, big or small, is appreciated!
 
+You can also contribute to the official website: https://github.com/tarondah/Rooko-Website
+
 ---
 
 ## Contact
